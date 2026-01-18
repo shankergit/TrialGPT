@@ -1,0 +1,933 @@
+https://gpt.hekma.ai/api/v1/jobs/p2t/job-f2eb5389-2049-4382-9e13-e3456f6619c2/compose
+
+{
+    "job_id": "job-f2eb5389-2049-4382-9e13-e3456f6619c2",
+    "narrative": "Patient is a 23-year-old female with a 5-year history of systemic mastocytosis, diagnosed in December 2025. She presents with a pattern of disease flares occurring approximately 3 times per year. Most recently, she has experienced 3 flares within a 2-month period while undergoing a steroid taper, which represents a change in her typical disease course.\n\nThe patient presented with symptoms concerning for acute mastocytosis flare, including flushing and tachycardia. She demonstrated a robust response to acute management with intravenous steroids (125 mg every 8 hours) and intravenous diphenhydramine. Laboratory evaluation revealed an elevated serum tryptase level of 84 ng/mL (reference date: December 9, 2025), consistent with active mast cell disease. Complete blood count was within her baseline parameters with normal differential.\n\nNotably, the patient has a documented adverse reaction to aspirin, which was confirmed during aspirin challenge testing and represents a contraindication to this agent.\n\nCurrent medication regimen, initiated December 9, 2025, includes: prednisone (with planned taper), diphenhydramine, histamine receptor blockers, proton pump inhibitor for gastrointestinal prophylaxis, calcium supplementation, vitamin D supplementation, and sulfamethoxazole-trimethoprim (SS bactrim) for Pneumocystis jirovecii pneumonia prophylaxis. The patient was transitioned from intravenous to oral formulations of steroids and diphenhydramine during hospitalization and was discharged on her home medication regimen with close follow-up.\n\nThe patient has no known drug allergies other than aspirin. She is otherwise healthy with no reported significant past medical history outside of her systemic mastocytosis.",
+    "narrative_length": 1730,
+    "patient_age": 23,
+    "patient_gender": "FEMALE",
+    "structured_data": null,
+    "used_llm": true
+}
+
+
+https://gpt.hekma.ai/api/v1/jobs/p2t/job-f2eb5389-2049-4382-9e13-e3456f6619c2/retrieve
+{
+    "job_id": "job-f2eb5389-2049-4382-9e13-e3456f6619c2",
+    "candidates": [
+        {
+            "trial_id": "NCT02441166",
+            "nct_id": "NCT02441166",
+            "retrieval_rank": 1,
+            "retrieval_score": 0.804047,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Diagnostic Value of Bone Marrow Tryptase in Systemic Mastocytosis",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT02808793",
+            "nct_id": "NCT02808793",
+            "retrieval_rank": 2,
+            "retrieval_score": 0.800365,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of AK002",
+            "trial_phase": "Phase 1",
+            "trial_status": null,
+            "trial_conditions": "Indolent Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT04811365",
+            "nct_id": "NCT04811365",
+            "retrieval_rank": 3,
+            "retrieval_score": 0.79774,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "(PROSPECTOR) Screening Study Evaluating the Prevalence of the KIT D816V Mutation in Patients With Systemic Mast Cell Activation",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Systemic Mast Cell Activation, KIT D816V Mutation"
+        },
+        {
+            "trial_id": "NCT02478957",
+            "nct_id": "NCT02478957",
+            "retrieval_rank": 4,
+            "retrieval_score": 0.796209,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Treatment of Indolent Systemic Mastocytosis With PA101",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis, Systemic Mastocytosis, Indolent Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT00001356",
+            "nct_id": "NCT00001356",
+            "retrieval_rank": 5,
+            "retrieval_score": 0.793678,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Characteristics of Mast Cells in Mastocytosis",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis"
+        },
+        {
+            "trial_id": "NCT00047918",
+            "nct_id": "NCT00047918",
+            "retrieval_rank": 6,
+            "retrieval_score": 0.791939,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Blood Factors in Mastocytosis and Unexplained Anaphylaxis and Flushing",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis, Anaphylaxis"
+        },
+        {
+            "trial_id": "NCT02620254",
+            "nct_id": "NCT02620254",
+            "retrieval_rank": 7,
+            "retrieval_score": 0.790217,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Mast Cell Connect: A Registry for Patients With Mastocytosis",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis"
+        },
+        {
+            "trial_id": "NCT01333293",
+            "nct_id": "NCT01333293",
+            "retrieval_rank": 8,
+            "retrieval_score": 0.789335,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "The Effect of Xolair ® (Omalizumab) in Mastocytosis Patients",
+            "trial_phase": "Phase 2; Phase 3",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis"
+        },
+        {
+            "trial_id": "NCT00006413",
+            "nct_id": "NCT00006413",
+            "retrieval_rank": 9,
+            "retrieval_score": 0.789257,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Stem Cell Transplantation to Treat Systemic Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis"
+        },
+        {
+            "trial_id": "NCT00336076",
+            "nct_id": "NCT00336076",
+            "retrieval_rank": 10,
+            "retrieval_score": 0.78896,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Molecular Mechanisms and Diagnosis of Mastocytosis",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis"
+        },
+        {
+            "trial_id": "NCT01334996",
+            "nct_id": "NCT01334996",
+            "retrieval_rank": 11,
+            "retrieval_score": 0.788421,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Use of Tamoxifen in Systemic Mastocytosis",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT01920204",
+            "nct_id": "NCT01920204",
+            "retrieval_rank": 12,
+            "retrieval_score": 0.788242,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Midostaurin in Indolent Systemic Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Indolent Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT00044122",
+            "nct_id": "NCT00044122",
+            "retrieval_rank": 13,
+            "retrieval_score": 0.787426,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Study of Factors Regulating Mast Cell Proliferation",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis, Monoclonal, Bone Marrow, Tryptase"
+        },
+        {
+            "trial_id": "NCT00001756",
+            "nct_id": "NCT00001756",
+            "retrieval_rank": 14,
+            "retrieval_score": 0.786142,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Study of Mast Cell Precursors",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis, Healthy Volunteer"
+        },
+        {
+            "trial_id": "NCT01701843",
+            "nct_id": "NCT01701843",
+            "retrieval_rank": 15,
+            "retrieval_score": 0.784458,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Cromoglicate in Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis"
+        },
+        {
+            "trial_id": "NCT04377828",
+            "nct_id": "NCT04377828",
+            "retrieval_rank": 16,
+            "retrieval_score": 0.782535,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Improvement of Pigmented Skin Lesions in Patients With Mastocytosis After Performing 2 Sessions of Pigment Laser",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Cutaneous Mastocytosis"
+        },
+        {
+            "trial_id": "NCT03770273",
+            "nct_id": "NCT03770273",
+            "retrieval_rank": 17,
+            "retrieval_score": 0.779329,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Safety and Efficacy of Subcutaneous Sarilumab in Improving the Quality of Life in People With Indolent Systemic Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Indolent Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT01481909",
+            "nct_id": "NCT01481909",
+            "retrieval_rank": 18,
+            "retrieval_score": 0.779001,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Study on Mastocytosis for Rupatadine Treatment",
+            "trial_phase": "Phase 2; Phase 3",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis"
+        },
+        {
+            "trial_id": "NCT01266369",
+            "nct_id": "NCT01266369",
+            "retrieval_rank": 19,
+            "retrieval_score": 0.777319,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Masitinib in Patients With Mastocytosis With Handicap and Bearing the D816V Mutation",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis"
+        },
+        {
+            "trial_id": "NCT03406325",
+            "nct_id": "NCT03406325",
+            "retrieval_rank": 20,
+            "retrieval_score": 0.777255,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Mast Cell Activation Test in Allergic Disease",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis, Mast Cell Activation Syndrome, Food Allergy, Chronic Idiopathic Urticaria, Anaphylaxis, Asthma, Eczema"
+        },
+        {
+            "trial_id": "NCT01297777",
+            "nct_id": "NCT01297777",
+            "retrieval_rank": 21,
+            "retrieval_score": 0.776966,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Imatinib in KIT-negative Systemic Mastocytosis",
+            "trial_phase": "Phase 4",
+            "trial_status": null,
+            "trial_conditions": "Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT02380222",
+            "nct_id": "NCT02380222",
+            "retrieval_rank": 22,
+            "retrieval_score": 0.776888,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Patient-Reported Outcome Questionnaire for Systemic Mastocytosis",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Smoldering Systemic Mastocytosis (SSM), Indolent Systemic Mastocytosis (ISM) ISM Subgroup Fully Recruited, Aggressive Systemic Mastocytosis (ASM), SM w Assoc Clonal Hema Non-mast Cell Lineage Disease (SM-AHNMD), Mast Cell Leukemia (MCL)"
+        },
+        {
+            "trial_id": "NCT00979160",
+            "nct_id": "NCT00979160",
+            "retrieval_rank": 23,
+            "retrieval_score": 0.776238,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Evaluation of Response of Dasatinib to Treat Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT01326741",
+            "nct_id": "NCT01326741",
+            "retrieval_rank": 24,
+            "retrieval_score": 0.775614,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Clonal Mast Cell Disorders in Exercise-Induced Anaphylaxis",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Anaphylaxis"
+        },
+        {
+            "trial_id": "NCT04333108",
+            "nct_id": "NCT04333108",
+            "retrieval_rank": 25,
+            "retrieval_score": 0.775403,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Masitinib in Severe Indolent or Smoldering Systemic Mastocytosis Unresponsive to Optimal Symptomatic Treatment",
+            "trial_phase": "Phase 3",
+            "trial_status": null,
+            "trial_conditions": "Indolent Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT03632811",
+            "nct_id": "NCT03632811",
+            "retrieval_rank": 26,
+            "retrieval_score": 0.774572,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Adaptation of the Questionnaire Regarding Patient's Quality of Life With Mastocytosis in the French Language",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Cutaneous Mastocytosis, Indolent Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT00449748",
+            "nct_id": "NCT00449748",
+            "retrieval_rank": 27,
+            "retrieval_score": 0.773028,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Everolimus (RAD001) as Therapy for Patients With Systemic Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT00233454",
+            "nct_id": "NCT00233454",
+            "retrieval_rank": 28,
+            "retrieval_score": 0.773021,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Phase 2 Midostaurin in Aggressive Systemic Mastocytosis and Mast Cell Leukemia",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Systemic Mastocytosis, Aggressive (ASM), Leukemia, Mast Cell, Hematological Non-mast Cell Lineage Disease (AHNMD)"
+        },
+        {
+            "trial_id": "NCT00132015",
+            "nct_id": "NCT00132015",
+            "retrieval_rank": 29,
+            "retrieval_score": 0.772362,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Systemic Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Chronic Myeloproliferative Disorders, Leukemia, Lymphoma, Nonneoplastic Condition, Precancerous Condition"
+        },
+        {
+            "trial_id": "NCT00457288",
+            "nct_id": "NCT00457288",
+            "retrieval_rank": 30,
+            "retrieval_score": 0.772154,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Efficacy and Safety of TF002 in Cutaneous Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Cutaneous Mastocytosis"
+        },
+        {
+            "trial_id": "NCT01602939",
+            "nct_id": "NCT01602939",
+            "retrieval_rank": 31,
+            "retrieval_score": 0.771352,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Cladribine Plus Pegylated Interpheron Alfa-2a in Systemic Mastocytosis",
+            "trial_phase": "Phase 2; Phase 3",
+            "trial_status": null,
+            "trial_conditions": "Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT00831974",
+            "nct_id": "NCT00831974",
+            "retrieval_rank": 32,
+            "retrieval_score": 0.771329,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Efficacy of AB1010 in Patients With Systemic Indolent Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Mastocytosis"
+        },
+        {
+            "trial_id": "NCT02415608",
+            "nct_id": "NCT02415608",
+            "retrieval_rank": 33,
+            "retrieval_score": 0.770317,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Ibrutinib in Treating Patients With Advanced Systemic Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Aggressive Systemic Mastocytosis, Mast Cell Leukemia, Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT00814073",
+            "nct_id": "NCT00814073",
+            "retrieval_rank": 34,
+            "retrieval_score": 0.769993,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Masitinib in Severe Indolent or Smoldering Systemic Mastocytosis",
+            "trial_phase": "Phase 3",
+            "trial_status": null,
+            "trial_conditions": "Indolent Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT00318097",
+            "nct_id": "NCT00318097",
+            "retrieval_rank": 35,
+            "retrieval_score": 0.769245,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Histamine Responsiveness in McCune-Albright Syndrome",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "McCune-Albright Syndrome"
+        },
+        {
+            "trial_id": "NCT03580655",
+            "nct_id": "NCT03580655",
+            "retrieval_rank": 36,
+            "retrieval_score": 0.768268,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "(PATHFINDER) Study to Evaluate Efficacy and Safety of Avapritinib (BLU-285), A Selective KIT Mutation-targeted Tyrosine Kinase Inhibitor, in Patients With Advanced Systemic Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Advanced Systemic Mastocytosis, Aggressive Systemic Mastocytosis, Systemic Mastocytosis With an Associated Hematologic Neoplasm, Mast Cell Leukemia"
+        },
+        {
+            "trial_id": "NCT00769587",
+            "nct_id": "NCT00769587",
+            "retrieval_rank": 37,
+            "retrieval_score": 0.767655,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Thalidomide in Treating Patients With Relapsed or Progressive Systemic Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Non Neoplastic Condition, Precancerous Condition"
+        },
+        {
+            "trial_id": "NCT00001760",
+            "nct_id": "NCT00001760",
+            "retrieval_rank": 38,
+            "retrieval_score": 0.766489,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Cytokine Production Patterns in Patients With Systemic Mastocytosis Compared With Atopic Dermatitis and Healthy Individuals",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Atopic Dermatitis, Healthy, Mastocytosis"
+        },
+        {
+            "trial_id": "NCT00493129",
+            "nct_id": "NCT00493129",
+            "retrieval_rank": 39,
+            "retrieval_score": 0.766459,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Ontak (Denileukin Diftitox) in Patients With Systemic Mastocytosis (SM)",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Leukemia, Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT02761473",
+            "nct_id": "NCT02761473",
+            "retrieval_rank": 40,
+            "retrieval_score": 0.765893,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Cutaneous Mastocytosis in Children: Analysis of Somatic and Germline Mutations",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Urticaria Pigmentosa, Cutaneous Mastocytosis"
+        },
+        {
+            "trial_id": "NCT04695431",
+            "nct_id": "NCT04695431",
+            "retrieval_rank": 41,
+            "retrieval_score": 0.764474,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Retrospective Study Assessing the Effect of Avapritinib Versus Best Available Therapy in Patients With AdvSM",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Advanced Systemic Mastocytosis, Aggressive Systemic Mastocytosis, Systemic Mastocytosis With an Associated Hematological Neoplasm, Mast Cell Leukemia"
+        },
+        {
+            "trial_id": "NCT00719719",
+            "nct_id": "NCT00719719",
+            "retrieval_rank": 42,
+            "retrieval_score": 0.764456,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Cause of Unexplained Anaphylaxis",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Idiopathic Anaphylaxis, Drug Anaphylaxis, Venom Anaphylaxis, Food Anaphylaxis"
+        },
+        {
+            "trial_id": "NCT00918931",
+            "nct_id": "NCT00918931",
+            "retrieval_rank": 43,
+            "retrieval_score": 0.764447,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Obatoclax for Systemic Mastocytosis",
+            "trial_phase": "Phase 2",
+            "trial_status": null,
+            "trial_conditions": "Leukemia, Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT03401060",
+            "nct_id": "NCT03401060",
+            "retrieval_rank": 44,
+            "retrieval_score": 0.763602,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Interest of Denosumab Treatment in Osteoporosis Associated to Systemic Mastocytosis",
+            "trial_phase": "Phase 3",
+            "trial_status": null,
+            "trial_conditions": "Osteoporosis, Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT01164241",
+            "nct_id": "NCT01164241",
+            "retrieval_rank": 45,
+            "retrieval_score": 0.762362,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Natural History of Severe Allergic Inflammation and Reactions",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Primary Localized Cutaneous Amyloidosis, Hereditary Alpha-tryptasemia, PGM3 Deficiency, Eosinophilic and/or Atopic Dermatitis, OSMR Deficiency"
+        },
+        {
+            "trial_id": "NCT01940393",
+            "nct_id": "NCT01940393",
+            "retrieval_rank": 46,
+            "retrieval_score": 0.762102,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Evaluation of the Inhibitory Effect of 5 Anti-Histamines in Urticaria",
+            "trial_phase": "Phase 4",
+            "trial_status": null,
+            "trial_conditions": "Urticaria"
+        },
+        {
+            "trial_id": "NCT01524536",
+            "nct_id": "NCT01524536",
+            "retrieval_rank": 47,
+            "retrieval_score": 0.760919,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Steroid Treatment for Hypereosinophilic Syndrome",
+            "trial_phase": "Phase 4",
+            "trial_status": null,
+            "trial_conditions": "Eosinophilia, Hypereosinophilic Syndrome, Leukocyte Disorder, Hematologic Diseases"
+        },
+        {
+            "trial_id": "NCT04714086",
+            "nct_id": "NCT04714086",
+            "retrieval_rank": 48,
+            "retrieval_score": 0.760364,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Expanded Access Program (EAP) for Avapritinib",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Advanced Systemic Mastocytosis, Aggressive Systemic Mastocytosis, Systemic Mastocytosis With an Associated Hematological Neoplasm, Mast Cell Leukemia, Indolent Systemic Mastocytosis, Solid Tumors"
+        },
+        {
+            "trial_id": "NCT03789422",
+            "nct_id": "NCT03789422",
+            "retrieval_rank": 49,
+            "retrieval_score": 0.759994,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "Tranexamic Acid and Spontaneous Chronic Urticaria",
+            "trial_phase": "Phase 4",
+            "trial_status": null,
+            "trial_conditions": "Chronic Spontaneous Urticaria"
+        },
+        {
+            "trial_id": "NCT00836368",
+            "nct_id": "NCT00836368",
+            "retrieval_rank": 50,
+            "retrieval_score": 0.759605,
+            "dense_score": null,
+            "sparse_score": null,
+            "trial_title": "In Vitro Basophil Responsiveness to Allergen Challenge After Gamma-tocopherol Supplementation in Allergic Asthmatics",
+            "trial_phase": "Phase 1",
+            "trial_status": null,
+            "trial_conditions": "Allergic, Asthmatic, Allergy, Asthma"
+        }
+    ],
+    "total_count": 50
+}
+
+
+https://gpt.hekma.ai/api/v1/jobs/p2t/job-f2eb5389-2049-4382-9e13-e3456f6619c2/evaluate
+{
+    "job_id": "job-f2eb5389-2049-4382-9e13-e3456f6619c2",
+    "evaluations": [
+        {
+            "trial_id": "NCT02441166",
+            "eligible": true,
+            "eligibility_score": 0.8889,
+            "avg_confidence": 0.775,
+            "inclusion_met": "1/2",
+            "exclusion_violated": "0/2",
+            "failed": false,
+            "error": null
+        },
+        {
+            "trial_id": "NCT02808793",
+            "eligible": false,
+            "eligibility_score": 0.1176,
+            "avg_confidence": 0.8563,
+            "inclusion_met": "7/16",
+            "exclusion_violated": "1/16",
+            "failed": false,
+            "error": null
+        },
+        {
+            "trial_id": "NCT02478957",
+            "eligible": false,
+            "eligibility_score": 0.0,
+            "avg_confidence": 0.8105,
+            "inclusion_met": "4/6",
+            "exclusion_violated": "1/13",
+            "failed": false,
+            "error": null
+        },
+        {
+            "trial_id": "NCT04811365",
+            "eligible": false,
+            "eligibility_score": 0.0,
+            "avg_confidence": 0.74,
+            "inclusion_met": "2/4",
+            "exclusion_violated": "1/1",
+            "failed": false,
+            "error": null
+        }
+    ],
+    "total_count": 4,
+    "eligible_count": 1,
+    "failed_count": 0
+}
+
+
+
+https://gpt.hekma.ai/api/v1/jobs/p2t/job-f2eb5389-2049-4382-9e13-e3456f6619c2/matches
+
+{
+    "job_id": "job-f2eb5389-2049-4382-9e13-e3456f6619c2",
+    "patient_id": "trec-202110",
+    "ranked_matches": [
+        {
+            "trial_id": "NCT02441166",
+            "nct_id": null,
+            "final_rank": 1,
+            "final_score": 0.863436,
+            "retrieval_score": 0.804047,
+            "eligibility_score": 0.888889,
+            "eligible": true,
+            "inclusion_met": "1/2",
+            "exclusion_violated": "0/2",
+            "avg_confidence": 0.775,
+            "relevance_score": null,
+            "relevance_explanation": null,
+            "eligibility_score_raw": null,
+            "eligibility_explanation": null,
+            "trial_title": "Diagnostic Value of Bone Marrow Tryptase in Systemic Mastocytosis",
+            "trial_phase": "",
+            "trial_status": null,
+            "trial_conditions": "Systemic Mastocytosis"
+        },
+        {
+            "trial_id": "NCT02808793",
+            "nct_id": null,
+            "final_rank": 2,
+            "final_score": 0.322462,
+            "retrieval_score": 0.800365,
+            "eligibility_score": 0.117647,
+            "eligible": false,
+            "inclusion_met": "7/16",
+            "exclusion_violated": "1/16",
+            "avg_confidence": 0.8563,
+            "relevance_score": null,
+            "relevance_explanation": null,
+            "eligibility_score_raw": null,
+            "eligibility_explanation": null,
+            "trial_title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of AK002",
+            "trial_phase": "Phase 1",
+            "trial_status": null,
+            "trial_conditions": "Indolent Systemic Mastocytosis"
+        }
+    ],
+    "total_evaluated": 2,
+    "total_eligible": 1,
+    "total_time_seconds": 1.0
+}
+
+
+
+https://gpt.hekma.ai/api/v1/validation/search
+
+
+{"patient_id":"sigir-201410","top_k":50,"eligibility_filters":{"enable_filters":true,"gender":null,"patient_age":67,"healthy_volunteers_only":null}}
+
+{
+    "patient_id": "sigir-201410",
+    "patient_summary": "A 67-year-old woman is experiencing complications following cardiac catheterization via the right femoral artery, presenting with a cool right foot, a pulsatile mass in her right groin, loss of distal pulses, and a bruit over the catheterization site.",
+    "embedding_time_ms": 578.7980556488037,
+    "data_source_status": {
+        "mysql_exists": false,
+        "opensearch_exists": true,
+        "mysql_tables": {},
+        "opensearch_index": null
+    },
+    "search_results": [],
+    "search_time": 0.3181741237640381,
+    "index_searched": "clinical_trial_gpt",
+    "dataset_filter": "sigir",
+    "eligibility_filters_applied": {
+        "enable_filters": true,
+        "gender": null,
+        "patient_age": 67,
+        "healthy_volunteers_only": null
+    },
+    "ground_truth_comparison": {
+        "total_ground_truth": 60,
+        "full_matches_in_gt": 4,
+        "partial_matches_in_gt": 12,
+        "full_matches_found": 0,
+        "partial_matches_found": 0,
+        "recall_full": 0.0,
+        "recall_partial": 0.0,
+        "recall_any": 0.0,
+        "found_trials": [],
+        "missed_full_matches": [
+            "NCT01599195",
+            "NCT01691911",
+            "NCT02097186",
+            "NCT02634138"
+        ],
+        "missed_partial_matches": [
+            "NCT00533156",
+            "NCT00667381",
+            "NCT00674778",
+            "NCT00736086",
+            "NCT01121510",
+            "NCT01133119",
+            "NCT01600482",
+            "NCT01943344",
+            "NCT02200783",
+            "NCT02241642",
+            "NCT02264964",
+            "NCT02389023"
+        ]
+    },
+    "total_time": 2.284332036972046
+}
+
+
+https://gpt.hekma.ai/api/v1/jobs/p2t
+
+{
+    "job_id": "job-6a5e286e-572d-4077-9ba0-ce466698a8bd",
+    "patient_id": "sigir-201419",
+    "status": "pending",
+    "current_stage": "compose",
+    "progress_pct": 0.0,
+    "stages": [
+        {
+            "stage": "compose",
+            "status": "pending",
+            "started_at": null,
+            "completed_at": null,
+            "duration_seconds": null,
+            "output_count": null,
+            "error_message": null,
+            "current_item": null,
+            "current_item_index": null,
+            "total_items": null
+        },
+        {
+            "stage": "retrieve",
+            "status": "pending",
+            "started_at": null,
+            "completed_at": null,
+            "duration_seconds": null,
+            "output_count": null,
+            "error_message": null,
+            "current_item": null,
+            "current_item_index": null,
+            "total_items": null
+        },
+        {
+            "stage": "evaluate",
+            "status": "pending",
+            "started_at": null,
+            "completed_at": null,
+            "duration_seconds": null,
+            "output_count": null,
+            "error_message": null,
+            "current_item": null,
+            "current_item_index": null,
+            "total_items": null
+        },
+        {
+            "stage": "rank",
+            "status": "pending",
+            "started_at": null,
+            "completed_at": null,
+            "duration_seconds": null,
+            "output_count": null,
+            "error_message": null,
+            "current_item": null,
+            "current_item_index": null,
+            "total_items": null
+        }
+    ],
+    "created_at": "2026-01-06T02:44:49",
+    "started_at": null,
+    "completed_at": null,
+    "total_time_seconds": null,
+    "error_message": null,
+    "error_stage": null,
+    "has_composition": false,
+    "has_retrieval": false,
+    "has_evaluation": false,
+    "has_matches": false,
+    "llm_model": null,
+    "config": {}
+}
+
+
+
+https://gpt.hekma.ai/api/v1/jobs/p2t/job-6a5e286e-572d-4077-9ba0-ce466698a8bd
+
+{
+    "job_id": "job-6a5e286e-572d-4077-9ba0-ce466698a8bd",
+    "patient_id": "sigir-201419",
+    "status": "running",
+    "current_stage": "compose",
+    "progress_pct": 5.0,
+    "stages": [
+        {
+            "stage": "compose",
+            "status": "running",
+            "started_at": "2026-01-06T02:44:56",
+            "completed_at": null,
+            "duration_seconds": null,
+            "output_count": null,
+            "error_message": null,
+            "current_item": null,
+            "current_item_index": null,
+            "total_items": null
+        },
+        {
+            "stage": "retrieve",
+            "status": "pending",
+            "started_at": null,
+            "completed_at": null,
+            "duration_seconds": null,
+            "output_count": null,
+            "error_message": null,
+            "current_item": null,
+            "current_item_index": null,
+            "total_items": null
+        },
+        {
+            "stage": "evaluate",
+            "status": "pending",
+            "started_at": null,
+            "completed_at": null,
+            "duration_seconds": null,
+            "output_count": null,
+            "error_message": null,
+            "current_item": null,
+            "current_item_index": null,
+            "total_items": null
+        },
+        {
+            "stage": "rank",
+            "status": "pending",
+            "started_at": null,
+            "completed_at": null,
+            "duration_seconds": null,
+            "output_count": null,
+            "error_message": null,
+            "current_item": null,
+            "current_item_index": null,
+            "total_items": null
+        }
+    ],
+    "created_at": "2026-01-06T02:44:49",
+    "started_at": "2026-01-06T02:44:57",
+    "completed_at": null,
+    "total_time_seconds": null,
+    "error_message": null,
+    "error_stage": null,
+    "has_composition": false,
+    "has_retrieval": false,
+    "has_evaluation": false,
+    "has_matches": false,
+    "llm_model": null,
+    "config": {}
+}

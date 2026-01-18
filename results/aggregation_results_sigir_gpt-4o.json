@@ -1,0 +1,52 @@
+{
+    "sigir-20141": {
+        "NCT00373828": {
+            "relevance_explanation": "The clinical trial is focused on evaluating and diagnosing chest pain, particularly non-cardiac and musculoskeletal chest pain, in patients with acute chest pain. The patient presents with acute chest pain, which is relevant to the trial's focus. However, the trial specifically targets patients admitted to a chest pain clinic with suspected acute coronary syndrome but with a negative diagnosis, which is not fully applicable to this patient as she is in the ER and lacks a confirmed negative diagnosis. Despite this, her acute chest pain and the trial's interest in ischemic heart disease make her somewhat relevant.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion of having an acute episode of chest pain of less than 7 days duration. However, she does not meet the criterion of being admitted to a chest pain clinic with a confirmed negative diagnosis of acute coronary syndrome. There is insufficient information to determine if her pain arises from the thorax/neck or if she can read Danish. She is not excluded by any of the exclusion criteria, as there is no evidence of acute coronary syndrome, percutaneous coronary intervention, or other listed conditions. Overall, she is partially eligible due to meeting one inclusion criterion and not being excluded.",
+            "eligibility_score_E": 20.0
+        },
+        "NCT00952744": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she presents with symptoms consistent with acute coronary syndromes (ACS), which is the target condition of the trial. She is 58 years old, which meets the age requirement, and she presented to the ER with symptoms indicative of ACS, such as chest pain, nausea, and diaphoresis. The trial aims to investigate biomarkers in patients with acute myocardial infarction, and the patient's presentation aligns with the trial's focus.",
+            "relevance_score_R": 95.0,
+            "eligibility_explanation": "The patient meets all the inclusion criteria: she is over 18, presents with symptoms consistent with ACS, arrived at the ER within 6 hours of symptom onset, and agrees to comply with the trial protocol. She is not excluded by any exclusion criteria, as she can provide informed consent and her symptoms are consistent with ACS. Therefore, she is fully eligible for the trial.",
+            "eligibility_score_E": 95.0
+        },
+        "NCT00005127": {
+            "relevance_explanation": "The clinical trial is focused on cardiovascular diseases, coronary disease, hypertension, and heart diseases. The patient presents with chest pain, has a history of hypertension, and is being evaluated for potential heart disease, which aligns with the trial's focus on cardiovascular conditions.",
+            "relevance_score_R": 85.0,
+            "eligibility_explanation": "The patient has hypertension, which is a target condition of the trial. She is experiencing chest pain, which could be related to coronary disease, another focus of the trial. She is willing to provide informed consent and comply with the trial protocol. There are no exclusion criteria mentioned that would disqualify her based on the provided information.",
+            "eligibility_score_E": 85.0
+        },
+        "NCT00143195": {
+            "relevance_explanation": "The clinical trial is focused on patients with chronic stable angina and aims to compare treatments for myocardial ischemia. The patient presents with chest pain and has hypertension, which are relevant to the trial's focus on cardiovascular conditions. However, the patient does not have a confirmed diagnosis of chronic stable angina, which is a key inclusion criterion for the trial. This limits the relevance of the patient to the trial.",
+            "relevance_score_R": 50.0,
+            "eligibility_explanation": "The patient meets the age requirement but does not have a confirmed diagnosis of clinically stable angina, which is necessary for inclusion. The patient is not excluded based on the exclusion criteria, as there is no evidence of congestive heart failure, significant cardiovascular disease, or use of anti-anginal therapies. However, the lack of a stable angina diagnosis means the patient is not eligible for the trial.",
+            "eligibility_score_E": -50.0
+        },
+        "NCT00005485": {
+            "relevance_explanation": "The clinical trial is focused on cardiovascular diseases among African Americans, which is relevant to the patient as she is an African-American woman presenting with chest pain and known hypertension. However, the trial also requires participants to be residents of Jackson, Mississippi, and there is no information about the patient's residency in the note.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion of being African American, which is relevant to the study. However, there is no information about her residency in Jackson, Mississippi, which is another inclusion criterion. Since residency is a critical factor for eligibility and there is no evidence to support it, the patient cannot be considered eligible for the trial.",
+            "eligibility_score_E": 0.0
+        },
+        "NCT02532699": {
+            "relevance_explanation": "The clinical trial is focused on assessing the effect of AC mycelia on blood pressure among people with mild hypertension. The patient is a 58-year-old woman with hypertension, which makes her relevant to the trial. However, there is no specific information about her blood pressure measurements to confirm full relevance.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient is eligible for the trial based on the inclusion criterion of being an untreated hypertensive woman aged between 20 and 80 years old. However, there is no information about her specific blood pressure measurements to confirm if they fall within the required range. She is not excluded based on the exclusion criteria, as there is no mention of major cardiovascular disease, severe liver dysfunction, insulin-dependent diabetes mellitus, stroke, alcohol consumption, pregnancy, or inability to comprehend study instructions.",
+            "eligibility_score_E": 40.0
+        },
+        "NCT01724567": {
+            "relevance_explanation": "The clinical trial is focused on obese patients with ischemic heart disease. The patient is obese, which is relevant to the trial's focus on obesity. However, there is no confirmed diagnosis of ischemic heart disease, which is a key target condition for the trial. The patient's symptoms and risk factors suggest a potential for ischemic heart disease, but without a confirmed diagnosis, the relevance is limited.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient does not meet the inclusion criterion for stable ischemic heart disease due to lack of a confirmed diagnosis. The patient's obesity suggests a possible BMI within the required range, but this is not confirmed. The patient is not excluded by any of the exclusion criteria, as there is no evidence of conditions like diabetes, valve disease, or severe heart failure. Overall, the patient is not eligible due to not meeting the key inclusion criterion.",
+            "eligibility_score_E": -60.0
+        },
+        "NCT01253486": {
+            "relevance_explanation": "The patient is a 58-year-old African-American woman with obesity and symptoms suggestive of ischemic heart disease, which are relevant to the trial targeting obese in-patients with ischemic heart disease. The trial also requires informed consent, which the patient is willing to provide.",
+            "relevance_score_R": 85.0,
+            "eligibility_explanation": "The patient meets the inclusion criteria for obesity and informed consent. However, while she presents with symptoms suggestive of ischemic heart disease, there is no confirmed diagnosis, which leaves her eligibility for this criterion uncertain. She is not excluded by any of the exclusion criteria, as there are no visual or manual limitations mentioned, and she is willing to participate.",
+            "eligibility_score_E": 60.0
+        }
+    }
+}
