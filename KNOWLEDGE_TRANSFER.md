@@ -1,4 +1,30 @@
-# TrialGPT Project Knowledge Transfer
+# TrialGPT Project - Knowledge Transfer & Migration Guide
+
+## 🚨 MIGRATION CHECKLIST (READ FIRST)
+**To resume work on the new machine, follow these exact steps:**
+
+1.  **Git Branch**: Use the **`transfer-clean`** branch.
+    ```bash
+    git clone https://github.com/shankergit/TrialGPT.git
+    cd TrialGPT
+    git checkout transfer-clean
+    ```
+    *(Note: This branch contains all code/config but EXCLUDES the large `dataset/` folder to fit GitHub limits.)*
+
+2.  **Data Transfer (CRITICAL)**:
+    *   You **MUST manually copy** the `dataset/` folder from your old machine (or backup) to the root of this repo on the new machine.
+    *   Required Path: `TrialGPT/dataset/`
+    *   Expected Subfolders: `sigir/`, `trec_2021/`, `trec_2022/`.
+
+3.  **Environment Variables**:
+    *   Create a `.env` file in `trialgpt_app/backend/` (or set in terminal).
+    *   Required: `OPENAI_API_KEY=sk-...` (Needed for future LLM integration).
+
+4.  **Dependencies**:
+    *   **Backend**: `pip install -r requirements.txt` (or manually: `fastapi uvicorn rank_bm25 pandas openai`)
+    *   **Frontend**: `cd trialgpt_app/frontend && npm install`
+
+---
 
 ## 1. Project Overview
 **Name:** TrialGPT (HealthAnalyticsPOC)
